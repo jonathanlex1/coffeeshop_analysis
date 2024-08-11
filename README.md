@@ -1,4 +1,4 @@
-# Market Sales Analysis and Forecasting Dashboard 
+# Coffeeshop Sales Analysis and Forecasting Dashboard 
 
 ## Project Overview
 This project involves an end-to-end analysis of coffee sales data, from data cleaning to interactive dashboard creation and time series forecasting. The dataset used is the 'Coffee Sales' dataset, which contains transaction records for a fictitious coffee shop, Maven Roasters, operating in NYC.
